@@ -16,8 +16,6 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var text2: UITextField!
     
-    
-    
     @IBAction func buttonPressed(_ sender: Any) {
         
         print(text1.text!)
